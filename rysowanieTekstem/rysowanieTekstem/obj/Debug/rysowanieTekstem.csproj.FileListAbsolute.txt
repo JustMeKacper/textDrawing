@@ -1,0 +1,7 @@
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\bin\Debug\rysowanieTekstem.exe.config
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\bin\Debug\rysowanieTekstem.exe
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\bin\Debug\rysowanieTekstem.pdb
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\obj\Debug\rysowanieTekstem.csproj.CoreCompileInputs.cache
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\obj\Debug\rysowanieTekstem.exe
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\obj\Debug\rysowanieTekstem.pdb
+F:\po\rysunki\rysowanieTekstem\rysowanieTekstem\obj\Debug\rysowanieTekstem.csprojAssemblyReference.cache
